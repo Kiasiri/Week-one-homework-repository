@@ -6,4 +6,5 @@
 -I then changed the css to connect to apply to new new semantic parts instead of the old classes.
 -Float right was changed to an id.
 -The css now mostly on applies to element tags except for the "float left" class and "float right" id.
+
 [Deployed Link](https://kiasiri.github.io/Week-one-homework-repository-refactory-assignment/)
